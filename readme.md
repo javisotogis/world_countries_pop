@@ -21,7 +21,7 @@ This map project uses the `geopandas` dataset on world countries to calculate an
 
 ## Dataset
 
-The dataset used in this project is the built-in `naturalearth_lowres` dataset from `geopandas`, which provides world country boundaries and estimated population data. We calculate the area of each country and then use it to determine population density.
+The dataset used in this project is the built-in `naturalearth_lowres` dataset from `matplotlib`, which provides world country boundaries and estimated population data. We calculate the area of each country and then use it to determine population density.
 
 ## Requirements
 
